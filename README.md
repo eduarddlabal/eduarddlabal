@@ -4,7 +4,7 @@ I'm an electrical engineering student focusing on embedded systems, but I am als
 # I'm pretty good with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,azure,raspberrypi,arduino,debian,arch,nginx" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,azure,raspberrypi,arduino,debian,nginx" />
   </a>
 </p>
 and also MS Access, but that does not have an icon :(
