@@ -1,4 +1,20 @@
 ## Hi there 👋
+I'm an electrical engineering student focusing on embedded systems, but I am also a programming and cybersecurity enthusiast. Currently I work at Energoprojekt Prague, Czechia.
+
+# I'm pretty good with
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,azure,raspberrypi,arduino,debian,arch,nginx" />
+  </a>
+</p>
+and also MS Access, but that does not have an icon :(
+
+Oh and I'm using
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,replit" />
+  </a>
+</p>
 
 <!--
 **eduarddlabal/eduarddlabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
