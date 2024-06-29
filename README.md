@@ -1,19 +1,22 @@
 # Hi there 👋
 I'm an electrical engineering student focusing on embedded systems, but I am also a programming and cybersecurity enthusiast. Currently I work at Energoprojekt Prague, Czechia.
 
-## I'm pretty good with:
+## I'm experienced with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,azure,raspberrypi,arduino,debian,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi"/>
   </a>
 </p>
-and also MS Access, but that does not have an icon :(
-<br>
-<br>
-Oh and I'm using
+## I'm pretty familiar with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,replit" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,windows"/>
+  </a>
+</p>
+## And I can also do something with
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,powershell,html,bash,vim,azure"/>
   </a>
 </p>
 
