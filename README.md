@@ -1,19 +1,21 @@
 # Hi there 👋
 I'm an electrical engineering student focusing on embedded systems, but I am also a programming and cybersecurity enthusiast. Currently I work at Energoprojekt Prague, Czechia.
 
-## I'm experienced with
+# My experiences
+
+I'm experienced with
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi"/>
   </a>
 </p>
-## I'm pretty familiar with
+I'm pretty familiar with
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,windows"/>
   </a>
 </p>
-## And I can also do something with
+And I can also do something with
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,powershell,html,bash,vim,azure"/>
