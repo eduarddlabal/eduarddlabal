@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm an electrical engineering student focusing on embedded systems, but I am also a programming and cybersecurity enthusiast. Currently I work at Energoprojekt Prague, Czechia.
 
-# My experiences
+<b>My experiences</b>
 
 I'm experienced with
 <p align="center">
@@ -21,7 +21,8 @@ And I can also do something with
     <img src="https://skillicons.dev/icons?i=postgres,powershell,html,bash,vim,azure"/>
   </a>
 </p>
-#
+<br>
+<br>
 trans rights btw 🏳️‍⚧️
 <!--
 **eduarddlabal/eduarddlabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
