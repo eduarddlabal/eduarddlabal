@@ -21,7 +21,8 @@ And I can also do something with
     <img src="https://skillicons.dev/icons?i=postgres,powershell,html,bash,vim,azure"/>
   </a>
 </p>
-
+#
+trans rights btw 🏳️‍⚧️
 <!--
 **eduarddlabal/eduarddlabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
