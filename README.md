@@ -1,7 +1,7 @@
-# Hi there 👋
+<h1>Hi there 👋</h1>
 I'm an electrical engineering student focusing on embedded systems, but I am also a programming and cybersecurity enthusiast. Currently I work at Energoprojekt Prague, Czechia.
 
-<b>My experiences</b>
+<h2><b>My experiences</b></h2>
 
 I'm experienced with
 <p align="center">
