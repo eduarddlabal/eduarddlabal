@@ -3,19 +3,19 @@ I'm an electrical engineering student focusing on embedded systems, but I am als
 
 <h2><b>My experiences</b></h2>
 
-I'm experienced with
+I'm experienced with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi"/>
   </a>
 </p>
-I'm pretty familiar with
+I'm somewhat familiar with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,windows"/>
   </a>
 </p>
-And I can also do something with
+And I can also do something with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,powershell,html,bash,vim,azure"/>
