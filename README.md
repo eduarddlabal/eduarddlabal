@@ -6,7 +6,7 @@ I'm an electrical engineering student focusing on embedded systems, but I am als
 I'm experienced with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi"/>
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,arduino,raspberrypi"/>
   </a>
 </p>
 I'm somewhat familiar with:
