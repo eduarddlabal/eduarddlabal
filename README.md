@@ -1,5 +1,4 @@
-all my projects are now available at: https://git.edcs.cz
+https://git.edcs.cz/eduard.dlabal
 
-Hello, I'm an electrical engineering student from Czechia. Mostly, I'm a hobbyist who loves to play with many different things - from microcontrollers and Linux to network devices.
-
-Currently, I'm trying to improve myself with C++ and learning to program ST controllers. I also have some experience with Autodesk software, like AutoCAD and Revit.
+## Welcome! 👋
+I am an electrical engineering student. I code in C/C++ and Python, specializing in microcontroller programming. I am also an enthusiast of Linux, computer networks, and cybersecurity. In connection with this, I am building my own home lab with several servers and learning to work with Mikrotik network devices.
