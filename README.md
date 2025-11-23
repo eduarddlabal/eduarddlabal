@@ -1,4 +1,4 @@
 https://git.edcs.cz/eduard.dlabal
 
-## Welcome! 👋
-I am an electrical engineering student. I code in C, C++ and Python, specializing in microcontroller programming. I am also an enthusiast of Linux, computer networks, and cybersecurity. In connection with this, I am building my own home lab with several servers and learning to work with Mikrotik network devices.
+## Welcome!
+My name is Eduard Dlabal, I am 17 years old and I am a student of electrical engineering with a enthusiasm for electronics, all kinds of tinkering, smart homes, computers, programming, and computer networks. 
